@@ -1,0 +1,88 @@
+.first {
+	background-image: url(../image/nature.jpeg);
+	background-repeat: no-repeat;
+	height: 657px;
+}
+.sml { font-size: 15px; }
+.ssml { font-size: 13px; color: #f8b8cb;}
+.pad { padding-top: 20px; }
+.para { color: #fce4eb; font-size: 18px; }
+.first-span {
+	font-size: 35px;
+	color: white;
+}
+.menu { 
+	width: 84.5%;
+	position: fixed;
+	top: 0; 
+	z-index: 1;
+	height: 80px;
+	border-bottom: solid 1px white;
+}
+.margint { margin-top: 20px; }
+.marginl { margin-left: 10px; }
+.center{ text-align: center; }
+.alink {
+	text-decoration: none;
+	color: white;
+}
+.firtst-page-content { padding-top: 200px; color: white;}
+h1 { font-size: 45px; font-weight: bolder; }
+.btn {
+	width: 150px;
+	border-radius: 50px;
+	height: 45px;
+}
+.btn-danger { background-color: #e81050; border-color: #e81050; margin-top: 50px; }
+.btn-danger:hover {
+	background-color: white;
+	color:#e81050;
+}
+.btn-secondary { background-color: #505288; border-color: #505288; margin-top: 20px; }
+.grid1 { background-image: url(../image/grid1.jpg); height: 700px; margin-top: 90px;}
+.create{ 
+	background-color: #e81050;
+	margin-top: 350px;
+	height: 440px;
+	color: white;
+	padding: 40px;
+}
+.grid2 { margin-top: 180px; }
+.heading { color: #e81050;  font-size: 35px; }
+.col { padding: 0; }
+.designation {	color: #808080; font-size: 20px;}
+.pic { width: 100% }
+.hide {
+	display: none;
+	width: 35px;
+	position: absolute;
+	margin: 0;
+	bottom: 100px;
+	background: #e81050;
+	z-index: 1;
+}
+.h2	{ font-size: 20px; }
+.hideicn { font-size: 25px; margin: 10px; }
+.image { position: relative; background-color: #f0f0f0; margin-right: 40px;}
+.image:hover .hide { display: block; }
+.imagerow { margin-top: 70px; }
+.box {
+	position: relative;
+	z-index: 1;
+	border-radius: 7px;
+	padding: 20px;
+	top: -30px;
+	display: inline-block;
+	background: #e81050;
+}
+.marqbtn { padding: 10px; }
+a { color: white; }
+.img21 { height: 350px;}
+.red { color: #e81050; }
+.padl-50 { padding-left: 50px; }
+.para { color: #5d5d5d; font-size: 16px; }
+.readmore { margin-top: 10px; }
+.para1 { color: #5d5d5d; font-size: 17px;  }
+.num{ color: #bc0554; size: 25px; }
+.head {	font-size: 30px;}
+.service { background-color: #f8f9fa; }
